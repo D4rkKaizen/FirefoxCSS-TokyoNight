@@ -5,7 +5,7 @@ Custom Tokyo Night CSS for Firefox
 
 > Tokyo Night
 
-![preview](./assets/preview.png)
+![preview](preview.png)
 
 ## Installation
 
@@ -25,8 +25,8 @@ I highly recommend installing this firefox theme: [`https://addons.mozilla.org/e
 
 
  ## DuckDuckGo
-![ddg-theme](./assets/ddg2.png)
+![ddg-theme](ddg2.png)
 
 Want to get this DuckDuckGo theme? Go to [`https://duckduckgo.com/settings#theme`](https://duckduckgo.com/settings#theme) and enter the passphrase **`tokyo-night`**.
 
-![ddg](./assets/ddg.png)
+![ddg](ddg.png)
