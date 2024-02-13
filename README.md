@@ -3,7 +3,7 @@
 Custom Tokyo Night CSS for Firefox
 </div>
 
-> Tokyo Night
+# Tokyo Night
 
 ![preview](preview.png)
 
