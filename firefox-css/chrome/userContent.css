@@ -1,0 +1,93 @@
+@-moz-document url("about:home"),
+url("about:blank"),
+url("about:newtab") {
+	body::before {
+		content: '';
+		z-index: -1;
+		position: fixed;
+		top: 0;
+		left: 0;
+		background: #16161e no-repeat url(newnier2b.png) center;
+		background-size: cover;
+		width: 100vw;
+		height: 100vh;
+	}
+
+	.search-wrapper .search-handoff-button {
+		background-color: #16161e !important;
+		color: #a9b1d6 !important;
+		font-family: 'JetBrainsMono Nerd Font' !important;
+		border: 2px solid #24283b !important;
+		border-radius: 10px 10px 10px 10px !important;
+		box-shadow: 0px 0px 20px #1a1b26 !important;
+	}
+
+	.search-wrapper .logo-and-wordmark {
+		opacity: 0.8 !important;
+		display: none !important;
+	}
+
+	.search-wrapper input:focus {
+		color: white !important;
+	}
+
+	.search-wrapper .search-button {
+		fill: #ffffff5e !important;
+	}
+
+	.search-wrapper .search-button:focus,
+	.search-wrapper .search-button:hover {
+		background-color: transparent !important;
+		fill: white !important;
+	}
+
+	.outer-wrapper.newtab-experience
+		.search-wrapper
+		.search-handoff-button
+		.fake-caret {
+		top: 12px !important;
+	}
+
+	.outer-wrapper.newtab-experience .search-wrapper .search-inner-wrapper {
+		min-height: 42px !important;
+	}
+
+	.top-site-outer .tile {
+		border-radius: 8px;
+		background-color: #1a1b26 !important;
+		/* box-shadow:	0px 0px 20px #1a1b26 !important; */
+		border: 2px solid #24283b !important;
+	}
+
+	.top-site-outer:hover .tile {
+		border-radius: 8px;
+		background-color: #1a1b26 !important;
+		box-shadow: 0px 0px 20px #1a1b26 !important;
+		border: 2px solid #24283b !important;
+	}
+
+	.top-site-outer .top-site-icon {
+		background-color: #1a1b26 !important;
+		background-position: center center;
+		background-repeat: no-repeat;
+		border-radius: 4px;
+		position: absolute;
+	}
+
+	.top-sites-list:not(.dnd-active) .top-site-outer:is(.active, :focus, :hover) {
+		background-color: #16161e !important;
+		border: 2px solid #24283b !important;
+		box-shadow: 0px 0px 20px #1a1b26 !important;
+	}
+
+	.top-site-outer .title {
+		font-family: 'JetBrainsMono Nerd Font' !important;
+		font-weight: 400 !important;
+		/* font-style: italic !important; */
+		/* letter-spacing: 0.1em !important; */
+	}
+
+	.icon.icon-pin-small {
+		display: none !important;
+	}
+}
