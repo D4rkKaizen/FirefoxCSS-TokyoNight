@@ -18,6 +18,7 @@ Custom Tokyo Night CSS for Firefox
 4. Paste the `chrome` folder into the correct profile folder.
     
 6. Paste the contents of the `font` directory into your `~/.local/share/fonts` directory.
+   Font: https://www.nerdfonts.com/font-downloads
 
 ## Note:
 - **For tokyo-night-fox css:**
