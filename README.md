@@ -22,7 +22,7 @@ Custom Tokyo Night CSS for Firefox
 
 ## Note:
 - **For tokyo-night-fox css:**
-I highly recommend installing this firefox theme: [`https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-theme/`](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-theme/) and the JetBrains Mono Nerd font
+I highly recommend installing this firefox theme: [`https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/`](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/) and the JetBrains Mono Nerd font
 
 
  ## DuckDuckGo
