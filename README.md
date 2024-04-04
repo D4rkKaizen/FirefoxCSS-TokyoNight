@@ -13,7 +13,7 @@ Custom Tokyo Night CSS for Firefox
 
 2. Locate your profile location by going to *`about:support`* and clicking *`Open Directory`* in *`Profile folder`* (Usually ends with *`.default-release`*)
 
-3. Clone this repository by running `[https://github.com/rototrash/firefox-css.git](https://github.com/D4rkKaizen/FirefoxCSS-TokyoNight)`.
+3. Clone this repository by running `git clone https://github.com/D4rkKaizen/FirefoxCSS-TokyoNight`.
 
 4. Paste the `chrome` folder into the correct profile folder.
     
