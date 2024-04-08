@@ -24,7 +24,8 @@ Paste the contents of the `font` directory into your `~/.local/share/fonts` dire
 ### Windows
 Just install font by click right mouse button and then press "install"
 
-### recommend JetBrainsMono Nerd Font
+## recommend JetBrainsMono Nerd Font
+### download here: https://www.nerdfonts.com/font-downloads
 ## Note:
 - **For tokyo-night-fox css:**
 I highly recommend installing this firefox theme: [`https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/`](https://addons.mozilla.org/en-US/firefox/addon/tokyo-night-milav/) and the JetBrains Mono Nerd font
