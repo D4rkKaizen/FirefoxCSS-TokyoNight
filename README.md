@@ -25,6 +25,7 @@ Paste the contents of the `font` directory into your `~/.local/share/fonts` dire
 Just install font by click right mouse button and then press "install"
 
 ## Font: https://www.nerdfonts.com/font-downloads
+
 ### recommend JetBrainsMono Nerd Font
 ## Note:
 - **For tokyo-night-fox css:**
